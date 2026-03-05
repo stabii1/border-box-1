@@ -26,6 +26,8 @@ html {
 
 strong {
   background-color: #ffc0ad;
+  width: 25px;
+  display: block;
 }
 
 .inline {
