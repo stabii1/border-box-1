@@ -32,6 +32,8 @@ strong {
 
 .inline {
   background-color: #ffc0ad;
+  width: 25px;
+  display: inline;
 }
 
 .inlineBlock {
